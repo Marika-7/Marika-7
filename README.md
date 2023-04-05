@@ -20,10 +20,15 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marika-7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marika-7&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
+&layout=compact
+&hide_progress=true
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
+vision-friendly-dark
+tokyonight
 https://github.com/devicons/devicon/tree/master/icons
   <img src=""  title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
