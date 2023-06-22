@@ -4,8 +4,13 @@
 <p>I am finishing my studies at Logos IT Academy. </p>
 
 <p>
-  My student project: 
+  My student projects: 
+  <br>
   <a href="https://monosushi-a36be.web.app/">monosushi-a36be.web.app/</a>
+  <br>
+  <a href="https://tomatina-3c277.web.app/">tomatina-3c277.web.app//</a>
+  <br>
+  And soon there will be another project - an example of teamwork.
 </p>
 <p>I am currently working on the final project, which I will present a little later :)</p>
 <p>I like to work with beautiful design, complex animation.</p>
@@ -34,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="30" height="30"/>&nbsp;
 </div>
 
 ---
