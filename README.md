@@ -6,9 +6,9 @@
 <p>
   My student projects: 
   <br>
-  <a href="https://monosushi-a36be.web.app/">monosushi-a36be.web.app/</a>
+  <a href="https://monosushi-a36be.web.app/">monosushi-a36be.web.app</a>
   <br>
-  <a href="https://tomatina-3c277.web.app/">tomatina-3c277.web.app//</a>
+  <a href="https://tomatina-3c277.web.app/">tomatina-3c277.web.app</a>
   <br>
   And soon there will be another project - an example of teamwork.
 </p>
