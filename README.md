@@ -2,6 +2,7 @@
 
 <p>frontend developer from Odesa (Ukraine).</p>
 <p>I am finishing my studies at Logos IT Academy. </p>
+<p>I create sites on Angular and React. </p>
 
 <p>
   My student projects: 
@@ -10,9 +11,10 @@
   <br>
   <a href="https://tomatina-3c277.web.app/">tomatina-3c277.web.app</a>
   <br>
-  And soon there will be another project - an example of teamwork.
+  And a team project:
+  <br>
+  <a href="https://tomatina-3c277.web.app/">onlinestoreteam.github.io</a>
 </p>
-<p>I am currently working on the final project, which I will present a little later :)</p>
 <p>I like to work with beautiful design, complex animation.</p>
 <p>I strive for further development in my profession.</p>
 
