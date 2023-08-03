@@ -13,7 +13,7 @@
   <br>
   And a team project:
   <br>
-  <a href="https://tomatina-3c277.web.app/">onlinestoreteam.github.io</a>
+  <a href="https://onlinestoreteam.github.io/">onlinestoreteam.github.io</a>
 </p>
 <p>I like to work with beautiful design, complex animation.</p>
 <p>I strive for further development in my profession.</p>
