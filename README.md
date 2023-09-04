@@ -1,7 +1,7 @@
 ### Hi, I'm Marika, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;&nbsp;
 
 <p>frontend developer from Odesa (Ukraine).</p>
-<p>I am finishing my studies at Logos IT Academy. </p>
+<p>I finished my studies at Logos IT Academy. </p>
 <p>I create sites on Angular and React. </p>
 
 <p>
@@ -10,10 +10,6 @@
   <a href="https://monosushi-a36be.web.app/">monosushi-a36be.web.app</a>
   <br>
   <a href="https://tomatina-3c277.web.app/">tomatina-3c277.web.app</a>
-  <br>
-  And a team project:
-  <br>
-  <a href="https://onlinestoreteam.github.io/">onlinestoreteam.github.io</a>
 </p>
 <p>I like to work with beautiful design, complex animation.</p>
 <p>I strive for further development in my profession.</p>
